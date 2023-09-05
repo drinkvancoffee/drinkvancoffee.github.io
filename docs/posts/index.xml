@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - 我的全新 Hugo 网站</title>
-        <link>https://plugins.drinkvancoffee.github.io/posts/</link>
+        <link>/posts/</link>
         <description>All Posts | 我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 04 Sep 2023 19:36:11 &#43;0800</lastBuildDate><atom:link href="https://plugins.drinkvancoffee.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 04 Sep 2023 19:36:11 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Airflow_post</title>
-    <link>https://plugins.drinkvancoffee.github.io/posts/airflow_post/</link>
+    <link>/posts/airflow_post/</link>
     <pubDate>Mon, 04 Sep 2023 19:36:11 &#43;0800</pubDate>
     <author>xxxx</author>
-    <guid>https://plugins.drinkvancoffee.github.io/posts/airflow_post/</guid>
+    <guid>/posts/airflow_post/</guid>
     <description><![CDATA[Airflow For HuaweiCloud Integration ]]></description>
 </item>
 </channel>
